@@ -1,19 +1,19 @@
 {
  "app": "Syria Construction Prices",
  "schema": 1,
- "updated": "2026-11-02T06:58:51+03:00",
+ "updated": "2026-11-03T07:04:03+03:00",
  "fx": {
   "official": {
    "rate": 122.0,
-   "date": "2026-11-01",
-   "source": "Al-Ain News – Syria dollar rate Sun 1 Nov 2026 (Central Bank of Syria bulletin: buy 121.50 / sell 122.50 new SYP; confirmed by Verify-Sy, bulletin no. 204)",
-   "url": "https://al-ain.com/article/dollar-rate-today-in-syria-sunday-1-november-2026"
+   "date": "2026-11-02",
+   "source": "Verify-Sy – exchange rates 2 Nov 2026 (Central Bank of Syria bulletin no. 205: buy 121.50 / sell 122.50 new SYP; confirmed by Al-Ain)",
+   "url": "https://www.verify-sy.com/ar/topic/economy/newsroom/exchange-rates-in-syria-02NOV"
   },
   "market": {
-   "rate": 142.75,
-   "date": "2026-11-01",
-   "source": "Al-Ain News – Syria dollar rate Sun 1 Nov 2026 (parallel market Damascus/Aleppo/Idlib buy 142.75 / sell 143.50 new SYP; Hasakah 145/146)",
-   "url": "https://al-ain.com/article/dollar-rate-today-in-syria-sunday-1-november-2026"
+   "rate": 143.0,
+   "date": "2026-11-02",
+   "source": "Al-Ain News – Syria dollar rate Mon 2 Nov 2026 (parallel market Damascus/Aleppo/Idlib buy 143.00 / sell 143.75 new SYP; Hasakah 145/146; Syria TV same values)",
+   "url": "https://al-ain.com/article/dollar-rate-today-in-syria-monday-2-november-2026"
   },
   "note": "New Syrian pound (2 zeros removed in 2026). Conversions use the market rate."
  },
@@ -121,6 +121,10 @@
     {
      "date": "2026-11-02",
      "usd": 821.0654
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 820.5245
     }
    ]
   },
@@ -208,6 +212,10 @@
     {
      "date": "2026-11-02",
      "usd": 149.1214
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 149.0326
     }
    ]
   },
@@ -275,6 +283,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 110.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 110.0
     }
    ]
@@ -354,6 +366,10 @@
     {
      "date": "2026-11-02",
      "usd": 26.6362
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 26.6101
     }
    ]
   },
@@ -432,6 +448,10 @@
     {
      "date": "2026-11-02",
      "usd": 26.1349
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 26.1119
     }
    ]
   },
@@ -510,6 +530,10 @@
     {
      "date": "2026-11-02",
      "usd": 0.3504
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 0.3501
     }
    ]
   },
@@ -578,6 +602,10 @@
     {
      "date": "2026-11-02",
      "usd": 102.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 102.5
     }
    ]
   },
@@ -644,6 +672,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 42.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 42.5
     }
    ]
@@ -712,6 +744,10 @@
     {
      "date": "2026-11-02",
      "usd": 17.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 17.0
     }
    ]
   },
@@ -775,6 +811,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 11.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 11.0
     }
    ]
@@ -844,6 +884,10 @@
     {
      "date": "2026-11-02",
      "usd": 3.75
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 3.75
     }
    ]
   },
@@ -911,6 +955,10 @@
     {
      "date": "2026-11-02",
      "usd": 5.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 5.0
     }
    ]
   },
@@ -933,6 +981,16 @@
      "source": "Gambini Designs – finishing cost 2026",
      "url": "https://gambinidesigns.com/blog/interior-finishing-cost-syria-2026.html",
      "note": "Surface ≈ 3.5–4.5 × floor area"
+    },
+    {
+     "region": "Damascus",
+     "currency": "USD",
+     "date": "2026-08-03",
+     "source": "Shaam Times – cost of building a house in Damascus 2026",
+     "url": "https://shaamtimes.com/2026/08/03/%D9%83%D9%85-%D9%8A%D9%83%D9%84%D9%81-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D8%A7%D9%85-2026%D8%9F-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7/",
+     "low": 2.25,
+     "high": 2.25,
+     "note": "Plastering (طينة) per m², as published; article estimates, not city-specific"
     }
    ],
    "history": [
@@ -979,6 +1037,10 @@
     {
      "date": "2026-11-02",
      "usd": 2.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 2.375
     }
    ]
   },
@@ -1045,6 +1107,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 9.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 9.0
     }
    ]
@@ -1113,6 +1179,10 @@
     {
      "date": "2026-11-02",
      "usd": 4.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 4.5
     }
    ]
   },
@@ -1180,6 +1250,10 @@
     {
      "date": "2026-11-02",
      "usd": 5.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 5.0
     }
    ]
   },
@@ -1246,6 +1320,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 8.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 8.0
     }
    ]
@@ -1324,6 +1402,10 @@
     {
      "date": "2026-11-02",
      "usd": 11.25
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 11.25
     }
    ]
   },
@@ -1390,6 +1472,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 5.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 5.5
     }
    ]
@@ -1458,6 +1544,10 @@
     {
      "date": "2026-11-02",
      "usd": 10.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 10.5
     }
    ]
   },
@@ -1524,6 +1614,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 12.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 12.5
     }
    ]
@@ -1592,6 +1686,10 @@
     {
      "date": "2026-11-02",
      "usd": 32.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 32.5
     }
    ]
   },
@@ -1659,6 +1757,10 @@
     {
      "date": "2026-11-02",
      "usd": 10.125
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 10.125
     }
    ]
   },
@@ -1680,6 +1782,16 @@
      "date": "2026-06-15",
      "source": "Kulfa – Syria price index",
      "url": "https://kulfa.app/prices.php?c=sy"
+    },
+    {
+     "region": "Damascus",
+     "currency": "USD",
+     "date": "2026-08-03",
+     "source": "Shaam Times – cost of building a house in Damascus 2026",
+     "url": "https://shaamtimes.com/2026/08/03/%D9%83%D9%85-%D9%8A%D9%83%D9%84%D9%81-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D8%A7%D9%85-2026%D8%9F-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7/",
+     "low": 3.25,
+     "high": 3.25,
+     "note": "Regular tile flooring per m² (workmanship); marble/ceramic flooring ≈ 9.8 USD/m²; article estimates, not city-specific"
     }
    ],
    "history": [
@@ -1725,6 +1837,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 3.25
+    },
+    {
+     "date": "2026-11-03",
      "usd": 3.25
     }
    ]
@@ -1793,6 +1909,10 @@
     {
      "date": "2026-11-02",
      "usd": 37.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 37.5
     }
    ]
   },
@@ -1859,6 +1979,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 75.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 75.0
     }
    ]
@@ -1927,6 +2051,10 @@
     {
      "date": "2026-11-02",
      "usd": 10.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 10.5
     }
    ]
   },
@@ -1993,6 +2121,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 57.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 57.5
     }
    ]
@@ -2061,6 +2193,10 @@
     {
      "date": "2026-11-02",
      "usd": 29.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 29.0
     }
    ]
   },
@@ -2127,6 +2263,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 43.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 43.5
     }
    ]
@@ -2195,6 +2335,10 @@
     {
      "date": "2026-11-02",
      "usd": 36.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 36.5
     }
    ]
   },
@@ -2216,6 +2360,16 @@
      "date": "2026-05-29",
      "source": "Kulfa – Syria price index",
      "url": "https://kulfa.app/prices.php?c=sy"
+    },
+    {
+     "region": "Damascus",
+     "currency": "USD",
+     "date": "2026-08-03",
+     "source": "Shaam Times – cost of building a house in Damascus 2026",
+     "url": "https://shaamtimes.com/2026/08/03/%D9%83%D9%85-%D9%8A%D9%83%D9%84%D9%81-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D8%A7%D9%85-2026%D8%9F-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7/",
+     "low": 50,
+     "high": 62,
+     "note": "Aluminium works: light profile ≈ 50, standard/double profile ≈ 62 USD/m²; article estimates, not city-specific"
     }
    ],
    "history": [
@@ -2262,6 +2416,10 @@
     {
      "date": "2026-11-02",
      "usd": 58.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 57.25
     }
    ]
   },
@@ -2328,6 +2486,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 77.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 77.5
     }
    ]
@@ -2396,6 +2558,10 @@
     {
      "date": "2026-11-02",
      "usd": 122.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 122.5
     }
    ]
   },
@@ -2417,6 +2583,16 @@
      "date": "2026-05-29",
      "source": "Kulfa – Syria price index",
      "url": "https://kulfa.app/prices.php?c=sy"
+    },
+    {
+     "region": "Damascus",
+     "currency": "USD",
+     "date": "2026-08-03",
+     "source": "Shaam Times – cost of building a house in Damascus 2026",
+     "url": "https://shaamtimes.com/2026/08/03/%D9%83%D9%85-%D9%8A%D9%83%D9%84%D9%81-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D8%A7%D9%85-2026%D8%9F-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7/",
+     "low": 80,
+     "high": 140,
+     "note": "Interior door, varies by type/quality; exterior door ≈ 180 USD; article estimates, not city-specific"
     }
    ],
    "history": [
@@ -2462,6 +2638,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 110.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 110.0
     }
    ]
@@ -2529,6 +2709,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 9.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 9.5
     }
    ]
@@ -2717,6 +2901,10 @@
     {
      "date": "2026-11-02",
      "usd": 75.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 75.0
     }
    ]
   },
@@ -2802,6 +2990,10 @@
     {
      "date": "2026-11-02",
      "usd": 1.366
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1.3636
     }
    ]
   },
@@ -2887,6 +3079,10 @@
     {
      "date": "2026-11-02",
      "usd": 1.296
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1.2937
     }
    ]
   },
@@ -2972,6 +3168,10 @@
     {
      "date": "2026-11-02",
      "usd": 1.2259
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1.2238
     }
    ]
   },
@@ -3048,6 +3248,10 @@
     {
      "date": "2026-11-02",
      "usd": 11.2084
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 11.1888
     }
    ]
   },
@@ -3133,6 +3337,10 @@
     {
      "date": "2026-11-02",
      "usd": 17.77
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 17.7389
     }
    ]
   },
@@ -3200,6 +3408,10 @@
     {
      "date": "2026-11-02",
      "usd": 369.8774
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 369.2308
     }
    ]
   },
@@ -3266,6 +3478,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 16.5
+    },
+    {
+     "date": "2026-11-03",
      "usd": 16.5
     }
    ]
@@ -3334,6 +3550,10 @@
     {
      "date": "2026-11-02",
      "usd": 27.5
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 27.5
     }
    ]
   },
@@ -3400,6 +3620,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 35.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 35.0
     }
    ]
@@ -3469,6 +3693,10 @@
     {
      "date": "2026-11-02",
      "usd": 6.7671
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 6.7552
     }
    ]
   },
@@ -3548,6 +3776,10 @@
     {
      "date": "2026-11-02",
      "usd": 900.0
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 900.0
     }
    ]
   },
@@ -3626,6 +3858,10 @@
     {
      "date": "2026-11-02",
      "usd": 471.4536
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 470.979
     }
    ]
   },
@@ -3693,6 +3929,10 @@
     {
      "date": "2026-11-02",
      "usd": 1155.8669
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1153.8462
     }
    ]
   },
@@ -3771,6 +4011,10 @@
     {
      "date": "2026-11-02",
      "usd": 366.4273
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 366.014
     }
    ]
   },
@@ -3838,6 +4082,10 @@
     {
      "date": "2026-11-02",
      "usd": 1110.3327
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1108.3916
     }
    ]
   },
@@ -3916,6 +4164,10 @@
     {
      "date": "2026-11-02",
      "usd": 175.0657
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 174.9126
     }
    ]
   },
@@ -3983,6 +4235,10 @@
     {
      "date": "2026-11-02",
      "usd": 87.986
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 87.8322
     }
    ]
   },
@@ -4049,6 +4305,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 5.0
+    },
+    {
+     "date": "2026-11-03",
      "usd": 5.0
     }
    ]
@@ -4146,6 +4406,10 @@
     {
      "date": "2026-11-02",
      "usd": 206.25
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 206.25
     }
    ]
   },
@@ -4242,6 +4506,10 @@
     {
      "date": "2026-11-02",
      "usd": 448.125
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 448.125
     }
    ]
   },
@@ -4336,6 +4604,10 @@
     {
      "date": "2026-11-02",
      "usd": 240.625
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 240.625
     }
    ]
   },
@@ -4410,6 +4682,10 @@
     {
      "date": "2026-11-02",
      "usd": 1.0508
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 1.049
     }
    ]
   },
@@ -4474,6 +4750,10 @@
     {
      "date": "2026-11-02",
      "usd": 4.5534
+    },
+    {
+     "date": "2026-11-03",
+     "usd": 4.5455
     }
    ]
   },
@@ -4534,6 +4814,10 @@
     },
     {
      "date": "2026-11-02",
+     "usd": 3.125
+    },
+    {
+     "date": "2026-11-03",
      "usd": 3.125
     }
    ]

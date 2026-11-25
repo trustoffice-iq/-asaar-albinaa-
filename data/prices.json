@@ -1,19 +1,19 @@
 {
  "app": "Syria Construction Prices",
  "schema": 1,
- "updated": "2026-11-24T06:53:34+03:00",
+ "updated": "2026-11-25T06:54:58+03:00",
  "fx": {
   "official": {
    "rate": 122.0,
-   "date": "2026-11-23",
-   "source": "Horrya Press citing Central Bank of Syria official bulletin No. 220, 23 Nov 2026 (buy 121.50 / sell 122.50 new SYP, unchanged); confirmed by Al-Ain News",
-   "url": "https://horrya.net/archives/164630"
+   "date": "2026-11-24",
+   "source": "Verify-Sy citing Central Bank of Syria official bulletin No. 221, 24 Nov 2026 (buy 121.50 / sell 122.50 new SYP, unchanged); confirmed by CNN Business Arabic",
+   "url": "https://www.verify-sy.com/ar/topic/economy/newsroom/exchange-rates-in-syria-24NOV"
   },
   "market": {
-   "rate": 151.0,
-   "date": "2026-11-23",
-   "source": "Al-Ain News – USD/SYP Monday 23 Nov 2026 (parallel market Damascus, Aleppo, Idlib: buy 150.75 / sell 151.25 new SYP; up from 150.00/150.50; confirmed by Horrya Press)",
-   "url": "https://al-ain.com/article/dollar-rate-today-in-syria-monday-23-nov-2026"
+   "rate": 151.75,
+   "date": "2026-11-24",
+   "source": "CNN Business Arabic – USD/SYP Tuesday 24 Nov 2026 (parallel market Damascus buy 151.50 / sell 152.00 new SYP, same across governorates; up from 150.75/151.25); confirmed by Syria TV (Damascus, Aleppo, Idlib 151.50/152.00)",
+   "url": "https://cnnbusinessarabic.com/finance-markets/1153259/"
   },
   "note": "New Syrian pound (2 zeros removed in 2026). Conversions use the market rate."
  },
@@ -209,6 +209,10 @@
     {
      "date": "2026-11-24",
      "usd": 804.1611
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 802.7155
     }
    ]
   },
@@ -384,6 +388,10 @@
     {
      "date": "2026-11-24",
      "usd": 146.3466
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 146.1093
     }
    ]
   },
@@ -560,6 +568,10 @@
     {
      "date": "2026-11-24",
      "usd": 110.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 110.0
     }
    ]
   },
@@ -726,6 +738,10 @@
     {
      "date": "2026-11-24",
      "usd": 25.8228
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 25.7533
     }
    ]
   },
@@ -892,6 +908,10 @@
     {
      "date": "2026-11-24",
      "usd": 25.4172
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 25.3558
     }
    ]
   },
@@ -1058,6 +1078,10 @@
     {
      "date": "2026-11-24",
      "usd": 0.3415
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 0.3407
     }
    ]
   },
@@ -1214,6 +1238,10 @@
     {
      "date": "2026-11-24",
      "usd": 102.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 102.5
     }
    ]
   },
@@ -1368,6 +1396,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 42.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 42.5
     }
    ]
@@ -1524,6 +1556,10 @@
     {
      "date": "2026-11-24",
      "usd": 17.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 17.0
     }
    ]
   },
@@ -1675,6 +1711,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 11.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 11.0
     }
    ]
@@ -1832,6 +1872,10 @@
     {
      "date": "2026-11-24",
      "usd": 3.75
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 3.75
     }
    ]
   },
@@ -1986,6 +2030,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 5.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 5.0
     }
    ]
@@ -2153,6 +2201,10 @@
     {
      "date": "2026-11-24",
      "usd": 2.375
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 2.375
     }
    ]
   },
@@ -2307,6 +2359,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 9.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 9.0
     }
    ]
@@ -2463,6 +2519,10 @@
     {
      "date": "2026-11-24",
      "usd": 4.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 4.5
     }
    ]
   },
@@ -2618,6 +2678,10 @@
     {
      "date": "2026-11-24",
      "usd": 5.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 5.0
     }
    ]
   },
@@ -2772,6 +2836,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 8.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 8.0
     }
    ]
@@ -2938,6 +3006,10 @@
     {
      "date": "2026-11-24",
      "usd": 11.25
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 11.25
     }
    ]
   },
@@ -3092,6 +3164,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 5.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 5.5
     }
    ]
@@ -3248,6 +3324,10 @@
     {
      "date": "2026-11-24",
      "usd": 10.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 10.5
     }
    ]
   },
@@ -3402,6 +3482,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 12.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 12.5
     }
    ]
@@ -3558,6 +3642,10 @@
     {
      "date": "2026-11-24",
      "usd": 32.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 32.5
     }
    ]
   },
@@ -3712,6 +3800,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 10.125
+    },
+    {
+     "date": "2026-11-25",
      "usd": 10.125
     }
    ]
@@ -3888,6 +3980,10 @@
     {
      "date": "2026-11-24",
      "usd": 3.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 3.5
     }
    ]
   },
@@ -4043,6 +4139,10 @@
     {
      "date": "2026-11-24",
      "usd": 37.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 37.5
     }
    ]
   },
@@ -4197,6 +4297,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 75.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 75.0
     }
    ]
@@ -4363,6 +4467,10 @@
     {
      "date": "2026-11-24",
      "usd": 9.75
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 9.75
     }
    ]
   },
@@ -4517,6 +4625,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 57.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 57.5
     }
    ]
@@ -4673,6 +4785,10 @@
     {
      "date": "2026-11-24",
      "usd": 29.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 29.0
     }
    ]
   },
@@ -4828,6 +4944,10 @@
     {
      "date": "2026-11-24",
      "usd": 43.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 43.5
     }
    ]
   },
@@ -4982,6 +5102,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 36.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 36.5
     }
    ]
@@ -5148,6 +5272,10 @@
     {
      "date": "2026-11-24",
      "usd": 57.25
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 57.25
     }
    ]
   },
@@ -5303,6 +5431,10 @@
     {
      "date": "2026-11-24",
      "usd": 77.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 77.5
     }
    ]
   },
@@ -5457,6 +5589,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 122.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 122.5
     }
    ]
@@ -5623,6 +5759,10 @@
     {
      "date": "2026-11-24",
      "usd": 110.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 110.0
     }
    ]
   },
@@ -5777,6 +5917,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 9.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 9.5
     }
    ]
@@ -6053,6 +6197,10 @@
     {
      "date": "2026-11-24",
      "usd": 75.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 75.0
     }
    ]
   },
@@ -6066,15 +6214,6 @@
    "kind": "official",
    "tags": "benzine benzin بنزين",
    "prices": [
-    {
-     "region": "Syria (general)",
-     "low": 195,
-     "high": 195,
-     "currency": "SYP",
-     "date": "2026-09-16",
-     "source": "Syrian Petroleum Company price list (via Syfatora)",
-     "url": "https://syfatora.com/fuel"
-    },
     {
      "region": "Syria (general)",
      "low": 195,
@@ -6102,6 +6241,15 @@
      "source": "Banker.news – Syria fuel price committee decision (effective 15 Nov 2026)",
      "url": "https://www.banker.news/160790",
      "note": "Kept unchanged in 15 Nov 2026 decision"
+    },
+    {
+     "region": "Syria (general)",
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Syrian Petroleum Company price list (via Syfatora, last updated 15 Nov 2026)",
+     "url": "https://syfatora.com/fuel",
+     "low": 195,
+     "high": 195
     }
    ],
    "history": [
@@ -6236,6 +6384,10 @@
     {
      "date": "2026-11-24",
      "usd": 1.2914
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 1.285
     }
    ]
   },
@@ -6249,15 +6401,6 @@
    "kind": "official",
    "tags": "benzine بنزين",
    "prices": [
-    {
-     "region": "Syria (general)",
-     "low": 185,
-     "high": 185,
-     "currency": "SYP",
-     "date": "2026-09-16",
-     "source": "Syrian Petroleum Company price list (via Syfatora)",
-     "url": "https://syfatora.com/fuel"
-    },
     {
      "region": "Syria (general)",
      "low": 185,
@@ -6285,6 +6428,15 @@
      "source": "Banker.news – Syria fuel price committee decision (effective 15 Nov 2026)",
      "url": "https://www.banker.news/160790",
      "note": "Kept unchanged in 15 Nov 2026 decision"
+    },
+    {
+     "region": "Syria (general)",
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Syrian Petroleum Company price list (via Syfatora, last updated 15 Nov 2026)",
+     "url": "https://syfatora.com/fuel",
+     "low": 185,
+     "high": 185
     }
    ],
    "history": [
@@ -6419,6 +6571,10 @@
     {
      "date": "2026-11-24",
      "usd": 1.2252
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 1.2191
     }
    ]
   },
@@ -6441,6 +6597,25 @@
      "source": "Banker.news – Syria fuel price committee decision (effective 15 Nov 2026)",
      "url": "https://www.banker.news/160790",
      "note": "Diesel cut ~14.3% to 150 new SYP/l from midnight 15 Nov 2026 (previously 175)"
+    },
+    {
+     "region": "Syria (general)",
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Syrian Petroleum Company price list (via Syfatora, last updated 15 Nov 2026)",
+     "url": "https://syfatora.com/fuel",
+     "low": 150,
+     "high": 150
+    },
+    {
+     "region": "Syria (general)",
+     "low": 150,
+     "high": 150,
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Verify-Sy – Ministry of Energy cuts diesel price (Petroleum Prices Committee via SANA)",
+     "url": "https://www.verify-sy.com/ar/topic/economy/newsroom/the-ministry-of-energy-reduces-the",
+     "note": "Diesel cut from 175 to 150 new SYP/l (−14.3%) from midnight Sun 15 Nov 2026"
     }
    ],
    "history": [
@@ -6575,6 +6750,10 @@
     {
      "date": "2026-11-24",
      "usd": 0.9934
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 0.9885
     }
    ]
   },
@@ -6593,15 +6772,6 @@
      "low": 1600,
      "high": 1600,
      "currency": "SYP",
-     "date": "2026-09-16",
-     "source": "Syrian Petroleum Company price list (via Syfatora)",
-     "url": "https://syfatora.com/fuel"
-    },
-    {
-     "region": "Syria (general)",
-     "low": 1600,
-     "high": 1600,
-     "currency": "SYP",
      "date": "2026-11-03",
      "source": "Baydar – daily fuel prices (Tue 3 Nov 2026, unchanged)",
      "url": "https://baydar.sy/prices/fuel-prices.html"
@@ -6615,6 +6785,15 @@
      "source": "Banker.news – Syria fuel price committee decision (effective 15 Nov 2026)",
      "url": "https://www.banker.news/160790",
      "note": "Household cylinder unchanged, 15 Nov 2026"
+    },
+    {
+     "region": "Syria (general)",
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Syrian Petroleum Company price list (via Syfatora, last updated 15 Nov 2026)",
+     "url": "https://syfatora.com/fuel",
+     "low": 1600,
+     "high": 1600
     }
    ],
    "history": [
@@ -6749,6 +6928,10 @@
     {
      "date": "2026-11-24",
      "usd": 10.596
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 10.5437
     }
    ]
   },
@@ -6762,15 +6945,6 @@
    "kind": "official",
    "tags": "gas industrial",
    "prices": [
-    {
-     "region": "Syria (general)",
-     "low": 2400,
-     "high": 2400,
-     "currency": "SYP",
-     "date": "2026-09-16",
-     "source": "Syrian Petroleum Company price list (via Syfatora)",
-     "url": "https://syfatora.com/fuel"
-    },
     {
      "region": "Syria (general)",
      "low": 2560,
@@ -6798,6 +6972,16 @@
      "source": "Banker.news – Syria fuel price committee decision (effective 15 Nov 2026)",
      "url": "https://www.banker.news/160790",
      "note": "Industrial cylinder listed as unchanged at 2,560 (Baydar 3 Nov listed 2,650)"
+    },
+    {
+     "region": "Syria (general)",
+     "currency": "SYP",
+     "date": "2026-11-15",
+     "source": "Syrian Petroleum Company price list (via Syfatora, last updated 15 Nov 2026)",
+     "url": "https://syfatora.com/fuel",
+     "low": 2400,
+     "high": 2400,
+     "note": "Syfatora lists 2,400; the 15 Nov 2026 committee decision (Verify-Sy/Banker.news) lists 2,560 unchanged"
     }
    ],
    "history": [
@@ -6932,6 +7116,10 @@
     {
      "date": "2026-11-24",
      "usd": 16.8377
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 16.7545
     }
    ]
   },
@@ -7087,6 +7275,10 @@
     {
      "date": "2026-11-24",
      "usd": 349.6689
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 347.9407
     }
    ]
   },
@@ -7241,6 +7433,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 16.5
+    },
+    {
+     "date": "2026-11-25",
      "usd": 16.5
     }
    ]
@@ -7397,6 +7593,10 @@
     {
      "date": "2026-11-24",
      "usd": 27.5
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 27.5
     }
    ]
   },
@@ -7551,6 +7751,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 35.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 35.0
     }
    ]
@@ -7708,6 +7912,10 @@
     {
      "date": "2026-11-24",
      "usd": 6.3974
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 6.3657
     }
    ]
   },
@@ -7875,6 +8083,10 @@
     {
      "date": "2026-11-24",
      "usd": 900.0
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 900.0
     }
    ]
   },
@@ -8041,6 +8253,10 @@
     {
      "date": "2026-11-24",
      "usd": 456.6225
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 455.3542
     }
    ]
   },
@@ -8196,6 +8412,10 @@
     {
      "date": "2026-11-24",
      "usd": 1092.7152
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 1087.3147
     }
    ]
   },
@@ -8362,6 +8582,10 @@
     {
      "date": "2026-11-24",
      "usd": 353.5099
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 352.4053
     }
    ]
   },
@@ -8517,6 +8741,10 @@
     {
      "date": "2026-11-24",
      "usd": 1049.6689
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 1044.4811
     }
    ]
   },
@@ -8683,6 +8911,10 @@
     {
      "date": "2026-11-24",
      "usd": 170.2815
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 169.8723
     }
    ]
   },
@@ -8848,6 +9080,10 @@
     {
      "date": "2026-11-24",
      "usd": 83.1788
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 82.7677
     }
    ]
   },
@@ -9002,6 +9238,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 5.0
+    },
+    {
+     "date": "2026-11-25",
      "usd": 5.0
     }
    ]
@@ -9187,6 +9427,10 @@
     {
      "date": "2026-11-24",
      "usd": 206.25
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 206.25
     }
    ]
   },
@@ -9371,6 +9615,10 @@
     {
      "date": "2026-11-24",
      "usd": 448.125
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 448.125
     }
    ]
   },
@@ -9553,6 +9801,10 @@
     {
      "date": "2026-11-24",
      "usd": 240.625
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 240.625
     }
    ]
   },
@@ -9715,6 +9967,10 @@
     {
      "date": "2026-11-24",
      "usd": 0.9934
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 0.9885
     }
    ]
   },
@@ -9799,6 +10055,10 @@
     {
      "date": "2026-11-24",
      "usd": 0.7616
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 0.7578
     }
    ]
   },
@@ -9951,6 +10211,10 @@
     {
      "date": "2026-11-24",
      "usd": 4.3046
+    },
+    {
+     "date": "2026-11-25",
+     "usd": 4.2834
     }
    ]
   },
@@ -10099,6 +10363,10 @@
     },
     {
      "date": "2026-11-24",
+     "usd": 3.125
+    },
+    {
+     "date": "2026-11-25",
      "usd": 3.125
     }
    ]
